@@ -86,13 +86,3 @@ root.geometry("900x300")
 root.resizable(False, False)
 
 root.mainloop()
-
-#name = input("What is your name? ")
-#age = input("What is your age: ")
-#address = input("What is your address: ")
-#print()
-#print("Name: " + name)
-#print("Age: " + age)
-#print("Address: " + address)
-#text = input("Enter text: ")
-
